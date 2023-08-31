@@ -16,3 +16,8 @@ git add day02.txt
 
 day02.txt를 수정
 --> day02.txt가 modified 상태가 되었다
+
+day02.txt 수정사항을 stage에 올리기
+--> git add day02.txt
+
+영구저장 - stage에 올라가있는(임시저장된 파일들)만 영구저장이 된다
